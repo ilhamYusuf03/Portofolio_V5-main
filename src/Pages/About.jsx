@@ -21,7 +21,7 @@ const Header = memo(() => (
       data-aos-duration="800"
     >
       <Sparkles className="w-5 h-5 text-purple-400" />
-      Transforming ideas into digital experiences
+      "Turning data into valuable insights for smarter decisions."
       <Sparkles className="w-5 h-5 text-purple-400" />
     </p>
   </div>
@@ -198,14 +198,14 @@ const AboutPage = () => {
               data-aos-duration="1000"
             >
               <span className="text-transparent bg-clip-text bg-gradient-to-r from-[#6366f1] to-[#a855f7]">
-                Hello, I'm
+                Hello, I'm 
               </span>
               <span 
                 className="block mt-2 text-gray-200"
                 data-aos="fade-right"
                 data-aos-duration="1300"
               >
-                Muhd.Sailijar Dirya
+                IlhamYusuf
               </span>
             </h2>
             
@@ -214,14 +214,11 @@ const AboutPage = () => {
               data-aos="fade-right"
               data-aos-duration="1500"
             >
-              seorang siswa lulusan Application Software Engineering yang
-              tertarik dalam pengembangan Front-End developer. Saya berfokus pada
-              menciptakan pengalaman digital yang menarik dan selalu berusaha
-              memberikan solusi terbaik dalam setiap proyek.
+              "Seorang FreshGraduate Informatika Universitas Usahid Surakarta yang berfokus pada pengolahan data dan teknologi machine learning.selalu berusaha memberikan solusi terbaik berbasis AI dan data-driven dalam setiap proyek."
             </p>
 
             <div className="flex flex-col lg:flex-row items-center lg:items-start gap-4 lg:gap-4 lg:px-0 w-full">
-              <a href="https://drive.google.com/drive/folders/1BOm51Grsabb3zj6Xk27K-iRwI1zITcpo" className="w-full lg:w-auto">
+              <a href="https://drive.google.com/file/d/1e6ZWH9mpQtNCQ0u32WpRHLF1DGUvDsCC/view?usp=sharing" className="w-full lg:w-auto">
               <button 
                 data-aos="fade-up"
                 data-aos-duration="800"
